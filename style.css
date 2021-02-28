@@ -1,0 +1,137 @@
+@font-face {
+   font-family: Crimson Pro;
+   src: url(RocknRollOne-Regular.ttf);
+
+}
+
+body {
+	margin: 0;
+
+}
+
+header {
+	padding: 10px;
+    text-align: center;
+    background: lightblue;
+    font-size: 24px;
+    overflow: hidden;
+   
+}
+
+.homeh1 {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 25px;
+	color: white;
+}
+
+.perut {
+	text-align: center;
+	font-family: Crimson Pro;
+	font-size: 18px
+    
+}
+
+.peruts {
+	text-align: center;
+	font-family: Crimson Pro;
+	font-size: 18px
+}
+
+.table {
+	margin-right: auto;
+	margin-left: auto;
+	font-family: sans-serif;
+
+}
+
+.logo {
+	float: left;
+	text-align: center;
+
+}
+
+.logo img {
+	width: 100px;
+	height: 100px;
+
+}
+
+.sse{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+.navbar {
+	float: right;
+	list-style-type: none;
+}
+
+.navbar li a {
+	color: white;
+	text-decoration: none;
+	font-family: Crimson Pro;
+
+}
+
+.navbar li a:hover:not(.active) {
+	background-color: #696969;
+    transition-duration: 0.5s;
+    text-decoration: none;
+}
+
+.active {
+	background-color: #4CAF50;
+}
+
+.forum {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+  	padding: 14px;
+ 	background-color: black;
+    color: white;
+    font-family: Crimson Pro;
+    font-size: 14px;
+}
+
+.bawah a img {
+	width: 50px;
+	height: 50px;
+}
+
+.forum label {
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.forum button {
+	width: 100px;
+	height: 30px;
+}
+
+.login {
+	text-align:center;
+}
+.login a button {
+	width: 100px;
+	height: 30px;
+}
+
+.progress {
+
+	background-color: black;
+	width: 50%;
+	border-style: solid;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.lor {
+	text-align: center;
+	font-family: Crimson Pro;
+}
+
